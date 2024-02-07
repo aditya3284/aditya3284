@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**aditya3284/aditya3284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently aquiring knowledge.
+- 🌱 I’m currently learning WEB TECHNOLOGY
+- 👯 I’m looking to collaborate on COOL STUFF
+- 🤔 I’m looking for help with LIFE
+- 💬 Favorite Quotes: Amor Fati
+- 📫 How to reach me: Internet 🌐
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: History repeats itself.
+---
+> IT'S ALL JUST A THEORY, A GAME THEORY
+
+> THANKS FOR VISTING 😂
