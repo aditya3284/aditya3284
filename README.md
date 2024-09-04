@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 > THANKS FOR VISTING 😂
 
 ---
-markdownCopy code
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Bulbasuar👋
 
 I'm a dedicated software developer with a passion for crafting dynamic and efficient web applications. My goal is to contribute to innovative projects and grow as a developer in a collaborative environment. Explore my profile to see the projects I've been working on and feel free to connect!
 
@@ -37,9 +36,9 @@ A robust backend solution using Node.js and Express.js, featuring secure and sca
 
 ## 📬 Contact Me
 
-- **LinkedIn**: [your-linkedin-profile](your-linkedin-profile)
+- **LinkedIn**: [your-linkedin-profile](https://linkin.com)
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [your-twitter-profile](your-twitter-profile)
+- **Twitter**: [your-twitter-profile](https://www.x.com)
 
 Looking forward to connecting with you!
 
